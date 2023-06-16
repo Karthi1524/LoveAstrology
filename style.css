@@ -33,7 +33,7 @@ p{
   text-align: center;
   font-family:Georgia, 'Times New Roman', Times, serif;
   text-shadow: 2px 0px 2px rgb(0, 0, 0);
-  padding-bottom: 15px;
+  padding-bottom: 20px;
   font-size:32px;
 }
 #name1{
@@ -41,7 +41,7 @@ p{
 }
 .table1{
   width: 350px;
-  height: 350px;
+  height: 400px;
   margin: 250px auto;
   padding: 10px 20px 30px;
   background-color: rgba(0, 0, 0, 0.3);
