@@ -34,7 +34,7 @@ p{
   font-family:Georgia, 'Times New Roman', Times, serif;
   text-shadow: 2px 0px 2px rgb(0, 0, 0);
   padding-bottom: 20px;
-  font-size:32px;
+  font-size:28px;
 }
 #name1{
   align-items: center;
@@ -42,7 +42,7 @@ p{
 .table1{
   width: 350px;
   height: 400px;
-  margin: 250px auto;
+  margin: 200px auto;
   padding: 10px 20px 30px;
   background-color: rgba(0, 0, 0, 0.3);
   font-size: 20px;
